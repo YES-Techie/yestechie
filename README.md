@@ -7,7 +7,7 @@ Hosted at : https://yestechie.team & https://yes-techie.github.io/yestechie/
 
 # Desktop View
 
-![Desktop View](./Screenshots/desktop_view.png)
+![Desktop View](./assets/screenshots/desktop_view.png)
     
 # Contributions
 
